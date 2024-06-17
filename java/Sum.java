@@ -12,7 +12,5 @@ class Sum
             sum=sum+i;
         }
         System.out.print("Sum "+sum);
-        
-        
-    }
+       }
 }
